@@ -1,0 +1,23 @@
+{
+  "name": "testcafe-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thormod/testcafe-issue.git"
+  },
+  "author": "Thormod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thormod/testcafe-issue/issues"
+  },
+  "homepage": "https://github.com/Thormod/testcafe-issue#readme",
+  "dependencies": {
+    "mockdate": "^3.0.2",
+    "testcafe": "^1.9.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "src": "tests/",
+    "reporter": [
+      {
+        "name": "spec"
+      }
+    ],
+    "selectorTimeout": 100,
+    "assertionTimeout": 1000,
+    "pageLoadTimeout": 1000
+  }
+  
